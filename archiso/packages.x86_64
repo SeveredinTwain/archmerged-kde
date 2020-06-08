@@ -13,7 +13,7 @@ crda
 darkhttpd
 ddrescue
 dhclient
-#dhcpcd
+dhcpcd
 dialog
 diffutils
 dmraid
@@ -91,7 +91,7 @@ xl2tpd
 xorg-server
 xorg-apps
 xorg-xinit
-#xterm
+xterm
 
 ###video
 #xorg-drivers
@@ -130,7 +130,7 @@ mesa
 #opencl-mesa
 #primus
 #vulkan-intel
-#vulkan-radeon
+vulkan-radeon
 
 ###base and base-devel
 base
@@ -168,7 +168,7 @@ blueberry
 bluez
 bluez-libs
 bluez-utils
-#bluez-firmware
+bluez-firmware
 pulseaudio-bluetooth
 
 ###network
@@ -227,7 +227,7 @@ poppler-qt5
 
 ###applications
 atom
-#chromium
+chromium
 #darktable
 #deadbeef
 #dmenu
@@ -235,30 +235,30 @@ atom
 feh
 firefox
 #flashplugin
-#galculator
-#geany
-#gimp
+galculator
+geany
+gimp
 gmrun
 #gsimplecal
 #guvcview
 imagemagick
-#inkscape
-#libreoffice-fresh
+inkscape
+libreoffice-fresh
 #lshw
-#meld
+meld
 #nitrogen
 numlockx
-#pragha
+pragha
 #qbittorrent
 scrot
-#simplescreenrecorder
+simplescreenrecorder
 termite
 variety
-#vlc
+vlc
 
 ###conky
 jq
-#lm_sensors
+lm_sensors
 
 ###cursors
 #xcursor-simpleandsoft
@@ -267,45 +267,45 @@ jq
 adobe-source-sans-pro-fonts
 awesome-terminal-fonts
 noto-fonts
-#terminus-font
-#ttf-bitstream-vera
+terminus-font
+ttf-bitstream-vera
 ttf-dejavu
 ttf-droid
 ttf-hack
-#ttf-inconsolata
-#ttf-liberation
+ttf-inconsolata
+ttf-liberation
 ttf-roboto
 ttf-ubuntu-font-family
 
 ###icons
 #arc-icon-theme
-#gnome-icon-theme
+gnome-icon-theme
 #papirus-icon-theme
 
 ###themes
 #adapta-gtk-theme
 adapta-kde
 arc-gtk-theme
-#kvantum-qt5
-#kvantum-theme-arc
+kvantum-qt5
+kvantum-theme-arc
 
 ###utilities
 arandr
 asciinema
 bash-completion
 #baobab
-#catfish
+catfish
 cronie
 dconf-editor
 #dex
-#dmidecode
-#evince
+dmidecode
+evince
 expac
 file-roller
 #filezilla
 git
 gksu
-#glances
+glances
 #gnome-disk-utility
 #gnome-keyring
 #gnome-screenshot
@@ -313,15 +313,15 @@ gksu
 #gnome-software-packagekit-plugin
 gparted
 #gpick
-#gtop
+gtop
 hardinfo
-#hddtemp
+hddtemp
 htop
 #hunspell
 #hunspell-en
 #hyphen
 #hyphen-en
-#grsync
+grsync
 intltool
 iw
 jsoncpp
@@ -332,34 +332,34 @@ mlocate
 #nomacs
 oh-my-zsh-git
 p7zip
-#plank
+plank
 playerctl
 polkit
 #polkit-gnome
 python2-dbus
 python2-xdg
 #qt4
-#qt5ct
+qt5ct
 #qt5-styleplugins
 #qt5-tools
 #qt5-webkit
-#powertop
+powertop
 reflector
 #redshift
 #rofi
 rxvt-unicode
-#simple-scan
+simple-scan
 #shotwell
 speedtest-cli
-#timeshift
+timeshift
 #tlp
 tree
-#ufw
-#gufw
+ufw
+gufw
 unace
 unrar
 unzip
-#vnstat
+vnstat
 w3m
 webkit2gtk
 wmctrl
@@ -367,7 +367,7 @@ xapps
 xdo
 xdotool
 #xdg-desktop-portal-gtk
-#youtube-dl
+youtube-dl
 zenity
 zsh
 zsh-completions
@@ -378,13 +378,13 @@ zsh-syntax-highlighting
 ###########################################################################
 
 ###applications
-#vivaldi
-#vivaldi-codecs-ffmpeg-extra-bin
+vivaldi
+vivaldi-codecs-ffmpeg-extra-bin
 
 ###cursors
-#breeze-cursors-lh
-#breeze-obsidian-cursor-theme
-#oxy-neon
+breeze-cursors-lh
+breeze-obsidian-cursor-theme
+oxy-neon
 bibata-cursor-theme
 breeze
 #xcursor-vanilla-dmz-aa
@@ -394,17 +394,17 @@ ttf-font-awesome
 ttf-ms-fonts
 
 ###icons
-#faba-icon-theme
-#halo-icons-git
-#moka-icon-theme
-#numix-circle-arc-icons-git
-#numix-icon-theme-git
-#numix-circle-icon-theme-git
-#paper-icon-theme
-#sardi-icons
-#surfn-icons-git
+faba-icon-theme
+halo-icons-git
+moka-icon-theme
+numix-circle-arc-icons-git
+numix-icon-theme-git
+numix-circle-icon-theme-git
+paper-icon-theme
+sardi-icons
+surfn-icons-git
 surfn-arc-breeze-icons-git
-#zafiro-icon-theme
+zafiro-icon-theme
 
 ###network
 #b43-firmware
@@ -425,18 +425,18 @@ mintstick-git
 neofetch
 #numix-gtk-theme-git
 pamac-aur
-#peek
+peek
 #pulseaudio-equalizer-ladspa
 python-pyparted
 #python-pywal
-#screenkey-git
-#sublime-text-dev
+screenkey-git
+sublime-text-dev
 #the_platinum_searcher-bin
 tmux
 trizen
 urxvt-perls
 urxvt-resize-font-git
-#wttr
+wttr
 yad
 yakuake
 yay-bin
@@ -445,10 +445,10 @@ yay-bin
 #                               GAMES
 ###########################################################################
 
-#arcolinux-meta-steam
-#lutris
+arcolinux-meta-steam
+lutris
 #sauerbraten
-#xonotic
+xonotic
 
 ###########################################################################
 #                           ARCOLINUX FOLDER
